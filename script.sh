@@ -11,3 +11,4 @@ vgs
 lvs
 pvs
 domainname
+df -hT /
